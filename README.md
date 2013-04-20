@@ -12,5 +12,5 @@ Note, that Python's relative import feature doesn't work for this use case and i
     m = import_file('../../module.py')
     m.foo()
 
-Check out also the test script: test.py for even more explict usage.
+Check out also the [test script](https://github.com/the-gigi/import_file/blob/master/test.py) for even more explicit usage.
 Enjoy!
